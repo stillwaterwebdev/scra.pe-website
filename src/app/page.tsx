@@ -145,7 +145,7 @@ export default function Home() {
                     </div>
                   </div>
                   <CardTitle className="text-2xl font-heading text-black">
-                    Instant Results, Zero Wait
+                    Immediate Results, Zero Wait
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="text-center">
