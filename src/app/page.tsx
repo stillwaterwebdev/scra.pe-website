@@ -280,7 +280,7 @@ export default function Home() {
                   </h3>
                 </div>
                 <p className="text-lg text-black leading-relaxed">
-                  Enter your target keywords and select your geographic area—whether that's specific states, counties, or custom ZIP codes. Our system calculates your project scope and cost.
+                  Enter your target keywords and select your geographic area—whether that&apos;s specific states, counties, or custom ZIP codes. Our system calculates your project scope and cost.
                 </p>
               </div>
 
@@ -295,7 +295,7 @@ export default function Home() {
                   </h3>
                 </div>
                 <p className="text-lg text-black leading-relaxed">
-                  Review your search parameters and pricing, then proceed with secure payment through Stripe. You'll receive confirmation and your order enters our automated processing queue.
+                  Review your search parameters and pricing, then proceed with secure payment through Stripe. You&apos;ll receive confirmation and your order enters our automated processing queue.
                 </p>
               </div>
 
@@ -374,7 +374,7 @@ export default function Home() {
                         How is pricing calculated?
                 </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Our pricing formula is simple: Number of Keywords × Number of ZIP Codes × Base Rate. For example, if you search for 2 keywords across 100 ZIP codes, you'll pay for 200 individual queries. The system shows your exact cost before payment with no hidden fees.
+                        Our pricing formula is simple: Number of Keywords × Number of ZIP Codes × Base Rate. For example, if you search for 2 keywords across 100 ZIP codes, you&apos;ll pay for 200 individual queries. The system shows your exact cost before payment with no hidden fees.
                 </AccordionContent>
               </AccordionItem>
 
@@ -384,7 +384,7 @@ export default function Home() {
                         How long does processing take?
                 </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Most orders are processed and delivered within 15-30 minutes of payment confirmation. Complex searches covering large geographic areas may take up to 60 minutes. You'll receive email updates on your order status throughout the process.
+                        Most orders are processed and delivered within 15-30 minutes of payment confirmation. Complex searches covering large geographic areas may take up to 60 minutes. You&apos;ll receive email updates on your order status throughout the process.
                 </AccordionContent>
               </AccordionItem>
 

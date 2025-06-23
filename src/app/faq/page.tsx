@@ -20,7 +20,7 @@ export default function FAQPage() {
                 Frequently Asked Questions
               </h1>
               <p className="text-lg md:text-xl text-black max-w-2xl mx-auto">
-                Everything you need to know about scra.pe's Google Maps data extraction service
+                Everything you need to know about scra.pe&apos;s Google Maps data extraction service
               </p>
             </div>
 
@@ -50,7 +50,7 @@ export default function FAQPage() {
                         How accurate is the data?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Our data is sourced directly from Google Maps, so it's as accurate as what Google displays publicly. We extract information in real-time, ensuring you receive the most current data available. However, business information can change frequently, so we recommend using data shortly after receiving it.
+                        Our data is sourced directly from Google Maps, so it&apos;s as accurate as what Google displays publicly. We extract information in real-time, ensuring you receive the most current data available. However, business information can change frequently, so we recommend using data shortly after receiving it.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -68,7 +68,7 @@ export default function FAQPage() {
                         Is this service legal?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Yes, we only extract publicly available information that Google displays in their search results. We comply with all applicable data protection laws and Google's terms of service. We do not access private or restricted information.
+                        Yes, we only extract publicly available information that Google displays in their search results. We comply with all applicable data protection laws and Google&apos;s terms of service. We do not access private or restricted information.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -98,7 +98,7 @@ export default function FAQPage() {
                         How is pricing calculated?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Our pricing formula is: Number of Keywords × Number of ZIP Codes × Base Rate. For example, if you search for 2 keywords across 100 ZIP codes, you'll pay for 200 individual queries. The system shows your exact cost before payment.
+                        Our pricing formula is: Number of Keywords × Number of ZIP Codes × Base Rate. For example, if you search for 2 keywords across 100 ZIP codes, you&apos;ll pay for 200 individual queries. The system shows your exact cost before payment.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -116,7 +116,7 @@ export default function FAQPage() {
                         Are there any hidden fees?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        No. The price shown in our calculator is exactly what you'll pay. There are no setup fees, processing fees, subscription costs, or hidden charges of any kind.
+                        No. The price shown in our calculator is exactly what you&apos;ll pay. There are no setup fees, processing fees, subscription costs, or hidden charges of any kind.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -125,7 +125,7 @@ export default function FAQPage() {
                         What is your refund policy?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        If our system fails to deliver your data due to technical issues on our end, we provide a full refund. However, due to the nature of data services, we cannot offer refunds for delivered data that doesn't meet your specific expectations or if your search parameters yield fewer results than anticipated.
+                        If our system fails to deliver your data due to technical issues on our end, we provide a full refund. However, due to the nature of data services, we cannot offer refunds for delivered data that doesn&apos;t meet your specific expectations or if your search parameters yield fewer results than anticipated.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -155,7 +155,7 @@ export default function FAQPage() {
                         How long does processing take?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Most orders are processed and delivered within 15-30 minutes of payment confirmation. Complex searches covering large geographic areas may take up to 60 minutes. You'll receive email updates on your order status.
+                        Most orders are processed and delivered within 15-30 minutes of payment confirmation. Complex searches covering large geographic areas may take up to 60 minutes. You&apos;ll receive email updates on your order status.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -164,7 +164,7 @@ export default function FAQPage() {
                         What if my search returns no results?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        If a specific keyword and location combination yields no results, that will be noted in your Excel file. You're still charged for the query attempt, as our system performed the search as requested. We recommend testing with broader keywords if results are limited.
+                        If a specific keyword and location combination yields no results, that will be noted in your Excel file. You&apos;re still charged for the query attempt, as our system performed the search as requested. We recommend testing with broader keywords if results are limited.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -182,7 +182,7 @@ export default function FAQPage() {
                         What happens if the system encounters an error?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Our system automatically retries failed queries and logs any technical issues. If we cannot complete your order due to system problems, you'll receive a full refund and notification email explaining the issue.
+                        Our system automatically retries failed queries and logs any technical issues. If we cannot complete your order due to system problems, you&apos;ll receive a full refund and notification email explaining the issue.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -221,7 +221,7 @@ export default function FAQPage() {
                         How do I track my order?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        After payment, you'll receive a confirmation email with your order number. If you have an account, you can log in to view order status. All users receive email updates when orders are completed and ready for download.
+                        After payment, you&apos;ll receive a confirmation email with your order number. If you have an account, you can log in to view order status. All users receive email updates when orders are completed and ready for download.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -239,7 +239,7 @@ export default function FAQPage() {
                         What if I don't receive my email?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        First, check your spam/junk folder as automated emails sometimes get filtered. If you still don't see it after 60 minutes, contact our support team with your order number for immediate assistance.
+                        First, check your spam/junk folder as automated emails sometimes get filtered. If you still don&apos;t see it after 60 minutes, contact our support team with your order number for immediate assistance.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -266,7 +266,7 @@ export default function FAQPage() {
                   <Accordion type="single" collapsible className="w-full">
                     <AccordionItem value="item-21" className="border-b border-border">
                       <AccordionTrigger className="text-left font-heading text-base py-4 hover:no-underline">
-                        What qualifies as a "custom data request"?
+                        What qualifies as a &quot;custom data request&quot;?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
                         Custom requests include: searches requiring specific data fields we don't normally extract, ongoing data collection services, integration with your existing systems, or searches that fall outside our standard geographic or keyword parameters.
@@ -278,7 +278,7 @@ export default function FAQPage() {
                         How long do custom requests take?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Custom data requests are typically completed within 24-48 hours, depending on complexity. We'll provide a timeline estimate when we respond to your initial request.
+                        Custom data requests are typically completed within 24-48 hours, depending on complexity. We&apos;ll provide a timeline estimate when we respond to your initial request.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -287,7 +287,7 @@ export default function FAQPage() {
                         Do you provide technical support?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Yes, we offer email support for all technical issues, payment problems, or questions about your data. While we don't provide phone support, we typically respond to emails within 4 business hours.
+                        Yes, we offer email support for all technical issues, payment problems, or questions about your data. While we don&apos;t provide phone support, we typically respond to emails within 4 business hours.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -296,7 +296,7 @@ export default function FAQPage() {
                         Can you help with data analysis or interpretation?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Our service focuses on data extraction and delivery. We don't provide analysis services, but our Excel format makes it easy to import into analysis tools, CRM systems, or work with data analysts.
+                        Our service focuses on data extraction and delivery. We don&apos;t provide analysis services, but our Excel format makes it easy to import into analysis tools, CRM systems, or work with data analysts.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -319,7 +319,7 @@ export default function FAQPage() {
                 Still have questions?
               </h3>
               <p className="text-base text-black mb-6 max-w-lg mx-auto">
-                Can't find what you're looking for? Our team is here to help with any specific questions about your data needs.
+                Can&apos;t find what you&apos;re looking for? Our team is here to help with any specific questions about your data needs.
               </p>
               <div className="flex flex-col sm:flex-row gap-3 justify-center">
                 <Button 
