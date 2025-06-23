@@ -173,7 +173,7 @@ export default function FAQPage() {
                         Can I modify my search after payment?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        No, searches cannot be modified after payment is processed. Please carefully review your keywords and geographic parameters before completing your purchase. If you need different data, you'll need to place a new order.
+                        No, searches cannot be modified after payment is processed. Please carefully review your keywords and geographic parameters before completing your purchase. If you need different data, you&apos;ll need to place a new order.
                       </AccordionContent>
                     </AccordionItem>
                     
@@ -236,7 +236,7 @@ export default function FAQPage() {
                     
                     <AccordionItem value="item-19" className="border-b border-border">
                       <AccordionTrigger className="text-left font-heading text-base py-4 hover:no-underline">
-                        What if I don't receive my email?
+                        What if I don&apos;t receive my email?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
                         First, check your spam/junk folder as automated emails sometimes get filtered. If you still don&apos;t see it after 60 minutes, contact our support team with your order number for immediate assistance.
@@ -269,7 +269,7 @@ export default function FAQPage() {
                         What qualifies as a &quot;custom data request&quot;?
                       </AccordionTrigger>
                       <AccordionContent className="text-black text-sm leading-relaxed pb-4">
-                        Custom requests include: searches requiring specific data fields we don't normally extract, ongoing data collection services, integration with your existing systems, or searches that fall outside our standard geographic or keyword parameters.
+                        Custom requests include: searches requiring specific data fields we don&apos;t normally extract, ongoing data collection services, integration with your existing systems, or searches that fall outside our standard geographic or keyword parameters.
                       </AccordionContent>
                     </AccordionItem>
                     
